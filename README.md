@@ -48,7 +48,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 
 *   **Supporting Visual:**
 
-    ![Percentage of Delay Minutes by Cause](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/delay_cause_breakdown.png)
+    ![Percentage of Delay Minutes by Cause](images/delay_cause_breakdown.png)
 
     *Caption: This chart breaks down the total minutes of delay by their root cause. It powerfully illustrates that 'Late Aircraft' and 'Carrier' delays are the primary drivers of lost time, not external factors like weather.*
 
@@ -66,7 +66,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 
 *   **Supporting Visual:**
 
-    ![Monthly On-Time Performance Trend](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/monthly_performance_trend.png)
+    ![Monthly On-Time Performance Trend](images/monthly_performance_trend.png)
 
     *Caption: This line graph visualizes the on-time arrival rate for each month. The significant dip in the summer (June/July) and the peak in the fall (September) are clearly visible, indicating predictable periods of high and low operational risk.*
 
@@ -84,7 +84,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 
 *   **Supporting Visual:**
 
-    ![Top 10 Airport Bottlenecks by NAS Delay](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/top_10_nas_bottlenecks.png)
+    ![Top 10 Airport Bottlenecks by NAS Delay](mages/top_10_nas_bottlenecks.png)
 
     *Caption: This chart ranks the top 10 airports by their average NAS delay minutes per flight. It highlights that the New York-area airports (EWR, LGA, JFK) and San Francisco (SFO) are major systemic chokepoints.*
 
