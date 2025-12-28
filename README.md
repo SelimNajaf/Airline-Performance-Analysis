@@ -84,7 +84,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 
 *   **Supporting Visual:**
 
-    ![Top 10 Airport Bottlenecks by NAS Delay](mages/top_10_nas_bottlenecks.png)
+    ![Top 10 Airport Bottlenecks by NAS Delay](images/top_10_nas_bottlenecks.png)
 
     *Caption: This chart ranks the top 10 airports by their average NAS delay minutes per flight. It highlights that the New York-area airports (EWR, LGA, JFK) and San Francisco (SFO) are major systemic chokepoints.*
 
