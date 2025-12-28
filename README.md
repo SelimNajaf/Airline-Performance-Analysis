@@ -30,7 +30,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 
 *   **Supporting Visual:**
 
-    ![Top 10 Most Reliable Carriers](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/top_10_reliable_carriers.png)
+    ![Top 10 Most Reliable Carriers](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/blob/main/images/top_10_reliable_carriers.png)
 
     *Caption: This bar chart ranks the top 10 carriers (with over 100 flights) by their on-time arrival percentage. The clear visual hierarchy distinguishes top-tier performers from the rest of the pack.*
 
