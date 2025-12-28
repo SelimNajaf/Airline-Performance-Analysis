@@ -31,6 +31,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 *   **Supporting Visual:**
 
     ![Top 10 Most Reliable Carriers](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/top_10_reliable_carriers.png)
+
     *Caption: This bar chart ranks the top 10 carriers (with over 100 flights) by their on-time arrival percentage. The clear visual hierarchy distinguishes top-tier performers from the rest of the pack.*
 
 *   **Actionable Recommendation:**
@@ -48,6 +49,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 *   **Supporting Visual:**
 
     ![Percentage of Delay Minutes by Cause](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/delay_cause_breakdown.png)
+
     *Caption: This chart breaks down the total minutes of delay by their root cause. It powerfully illustrates that 'Late Aircraft' and 'Carrier' delays are the primary drivers of lost time, not external factors like weather.*
 
 *   **Actionable Recommendation:**
@@ -65,6 +67,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 *   **Supporting Visual:**
 
     ![Monthly On-Time Performance Trend](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/monthly_performance_trend.png)
+
     *Caption: This line graph visualizes the on-time arrival rate for each month. The significant dip in the summer (June/July) and the peak in the fall (September) are clearly visible, indicating predictable periods of high and low operational risk.*
 
 *   **Actionable Recommendation:**
@@ -82,6 +85,7 @@ This analysis provides a comprehensive review of U.S. airline on-time performanc
 *   **Supporting Visual:**
 
     ![Top 10 Airport Bottlenecks by NAS Delay](https://raw.githubusercontent.com/SelimNajaf/Airline-Performance-Analysis/images/top_10_nas_bottlenecks.png)
+
     *Caption: This chart ranks the top 10 airports by their average NAS delay minutes per flight. It highlights that the New York-area airports (EWR, LGA, JFK) and San Francisco (SFO) are major systemic chokepoints.*
 
 *   **Actionable Recommendation:**
